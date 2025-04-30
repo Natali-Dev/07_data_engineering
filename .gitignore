@@ -1,0 +1,6 @@
+.env
+logs
+.vscode
+.duckdb 
+dbt_packages
+ads_data_warehouse.duckdb
